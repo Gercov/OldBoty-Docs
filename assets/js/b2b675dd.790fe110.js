@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkold_boty_docs=self.webpackChunkold_boty_docs||[]).push([[533],{8017:function(o){o.exports=JSON.parse('{"permalink":"/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

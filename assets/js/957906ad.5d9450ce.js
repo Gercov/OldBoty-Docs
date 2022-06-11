@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkold_boty_docs=self.webpackChunkold_boty_docs||[]).push([[60],{161:function(o){o.exports=JSON.parse('{"label":"oldboty","permalink":"/OldBoty-Docs/blog/tags/oldboty","allTagsPath":"/OldBoty-Docs/blog/tags","count":1}')}}]);

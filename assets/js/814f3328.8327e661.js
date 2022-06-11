@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkold_boty_docs=self.webpackChunkold_boty_docs||[]).push([[535],{5641:function(t){t.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"\u0412\u044b\u0445\u043e\u0434 OldBoty 3.0!","permalink":"/blog/OldBoty 3.0"}]}')}}]);
