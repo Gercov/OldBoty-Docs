@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://your-docusaurus-test-site.com/blog</id>
+    <title>OldBoty Blog</title>
+    <updated>2022-06-10T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://your-docusaurus-test-site.com/blog"/>
+    <subtitle>OldBoty Blog</subtitle>
+    <icon>https://your-docusaurus-test-site.com/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Выход OldBoty 3.0!]]></title>
+        <id>OldBoty 3.0</id>
+        <link href="https://your-docusaurus-test-site.com/blog/OldBoty 3.0"/>
+        <updated>2022-06-10T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[OldBoty был полностью переписан, из-за чего стабильность увеличилась в разы и добавление любых новых функций становится очень простым]]></summary>
+        <content type="html"><![CDATA[<p>OldBoty был полностью переписан, из-за чего стабильность увеличилась в разы и добавление любых новых функций становится очень простым</p><p>Основные функции бота так и остались бесплатными, но с некоторыми ограничениями. Для их увеличения приобретите подписку через <strong><a href="https://t.me/oldboty_tw_bot" target="_blank" rel="noopener noreferrer">телеграм бота</a></strong></p>]]></content>
+        <author>
+            <name>Aleksandr Gercov</name>
+            <uri>https://github.com/gercov</uri>
+        </author>
+        <category label="oldboty" term="oldboty"/>
+    </entry>
+</feed>
