@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'OldBoty',
   tagline: 'Освободите свой чат от рутинных задач',
-  url: 'https://gercov.github.io/OldBoty-Docs/',
+  url: 'https://gercov.github.io/',
   baseUrl: '/OldBoty-Docs/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
