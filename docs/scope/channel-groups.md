@@ -37,6 +37,23 @@ sidebar_position: 4
 !accepti !mygroup
 ```
 
+## Выход из связки
+`!gexit !key`
+
+Пример:
+```
+!gexit !mygroup
+```
+
+## Кик из связки
+`!gkick !key value`
+- `value` - никнейм канала
+
+Пример:
+```
+!gkick !mygroup value
+```
+
 ## Удаление связки
 `!delg !key`
 
