@@ -37,7 +37,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/Gercov/OldBoty-Docs',
+            'https://github.com/Gercov/OldBoty-Docs/blob/master',
           sidebarCollapsed: false
         },
         theme: {
