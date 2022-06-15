@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>OldBoty Blog</title>
-        <link>https://your-docusaurus-test-site.com/OldBoty-Docs/blog</link>
+        <link>https://gercov.github.io/OldBoty-Docs/OldBoty-Docs/blog</link>
         <description>OldBoty Blog</description>
         <lastBuildDate>Fri, 10 Jun 2022 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
@@ -10,7 +10,7 @@
         <language>ru</language>
         <item>
             <title><![CDATA[Выход OldBoty 3.0!]]></title>
-            <link>https://your-docusaurus-test-site.com/OldBoty-Docs/blog/OldBoty 3.0</link>
+            <link>https://gercov.github.io/OldBoty-Docs/OldBoty-Docs/blog/OldBoty 3.0</link>
             <guid>OldBoty 3.0</guid>
             <pubDate>Fri, 10 Jun 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[OldBoty был полностью переписан, из-за чего стабильность увеличилась в разы и добавление любых новых функций становится очень простым]]></description>
