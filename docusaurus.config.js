@@ -59,7 +59,7 @@ const config = {
         items: [
           {
             type: 'doc',
-            docId: 'install',
+            docId: 'innovations',
             position: 'left',
             label: 'Документация',
           },
