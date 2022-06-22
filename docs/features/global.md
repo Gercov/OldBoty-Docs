@@ -14,9 +14,9 @@ sidebar_position: 7
 `!g on` для включения и `!g off` для выключения
 
 # Отправить глобальный бан
-`!gb value reason`
+`!gb username reason`
 
-- `value` - никнейм пользователя
+- `username` - username пользователя
 - `reason` - причина бана **(обязательно)**
 
 Пример:
