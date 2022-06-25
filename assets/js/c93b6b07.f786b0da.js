@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkold_boty_docs=self.webpackChunkold_boty_docs||[]).push([[804],{3769:function(s){s.exports=JSON.parse('{"name":"docusaurus-plugin-content-docs","id":"default"}')}}]);
