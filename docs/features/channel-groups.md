@@ -88,3 +88,10 @@ sidebar_position: 4
 ```
 !gpb !mygroup someusername п-ворд
 ```
+### Разбан по связке
+`!gpub !key username`
+
+Пример:
+```
+!gpub !mygroup someusername
+```
