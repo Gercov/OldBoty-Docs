@@ -9,6 +9,7 @@ sidebar_position: 1
 
 ## Команды
 - [Кастомные команды](features/commands)
+- [Элиасы](features/commands#элиасы)
 - [Банворды / Мутворды](features/banwords)
 - [Опросы](features/polls)
 - [Возвращены !mt и !mb](features/spam)
