@@ -88,6 +88,14 @@ sidebar_position: 4
 ```
 !gpb !mygroup someusername п-ворд
 ```
+### Мут по связке
+`!gpm !key duration username reason`
+- `duration` - продолжительность мута (без указания 300 сек)
+
+Пример:
+```
+!gpm !mygroup 600 someusername спам
+```
 ### Разбан по связке
 `!gpub !key username`
 
