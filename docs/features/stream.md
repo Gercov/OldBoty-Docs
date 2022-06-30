@@ -11,5 +11,5 @@ sidebar_position: 10
 
 Пример
 ```
-!sett some text
+!changet some text
 ```
