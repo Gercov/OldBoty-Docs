@@ -23,3 +23,11 @@ sidebar_position: 7
 ```
 !gb somenickname п-ворд
 ```
+
+# Отправить глобальный разбан
+`!gub username reason`
+
+Пример:
+```
+!gub somenickname исправился
+```
